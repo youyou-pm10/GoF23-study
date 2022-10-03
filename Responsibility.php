@@ -1,4 +1,8 @@
 <?php
+/*
+GoF23-study : Responsibility
+This is a example.
+*/
 abstract class Exanmine{
     private $sir;
     public function setSir($sir){
